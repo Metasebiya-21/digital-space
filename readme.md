@@ -68,19 +68,6 @@ Bahir Dar Institute of Technology (BiT), Bahir Dar, 2021
   - Developed a platform that significantly improved customer onboarding for banks in remote areas, expanding their customer base
   - Enabled efficient synchronization of offline customer data to the central database upon restoration of internet connectivity
 
-**Project: Scalable Web Applications Using Sequelize and Mongoose**
-- **Role:** Senior Software Engineer
-- **Environment:** Node.js, Express.js, Sequelize, Mongoose, PostgreSQL, MongoDB
-- **Responsibilities:**
-  - Developed a robust backend system using Node.js and Express.js
-  - Implemented data models with Sequelize for relational data management in PostgreSQL
-  - Utilized Mongoose for handling complex document structures in MongoDB
-  - Designed and optimized SQL queries for performance improvement
-  - Created RESTful APIs for various services, ensuring high scalability and reliability
-- **Accomplishments:**
-  - Enhanced data retrieval speeds by 40% through query optimization
-  - Improved system scalability, accommodating a 50% increase in user base without performance degradation
-
 ### Advanced Projects and Leadership Experience
 
 - Architected and led the development of a scalable microservices architecture for multiple high-traffic web applications
